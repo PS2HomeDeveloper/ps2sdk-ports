@@ -134,7 +134,7 @@ $FETCH libsmb2-6.2 https://github.com/sahlberg/libsmb2.git &
 $FETCH v1.3.18 https://github.com/lsalzman/enet.git &
 
 # Use wget to download argtable2
-wget -c --directory-prefix=build  http://prdownloads.sourceforge.net/argtable/argtable2-13.tar.gz &
+wget -c --directory-prefix=build https://downloads.sourceforge.net/project/argtable/argtable/argtable-2.13/argtable2-13.tar.gz &
 $FETCH v3.2.2.f25c624 https://github.com/argtable/argtable3.git &
 
 $FETCH v1.8.2 https://github.com/hyperrealm/libconfig.git &
